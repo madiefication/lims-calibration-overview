@@ -38,6 +38,8 @@ This project consists of five interconnected repositories, each responsible for 
 ## System Architechture / Diagrams
 ![Untitled diagram-2025-03-12-100834](https://github.com/user-attachments/assets/06d24db8-84a6-4063-bd1f-00326bc4fd08)
 ![Untitled diagram-2025-03-12-101020](https://github.com/user-attachments/assets/e85a164f-26f2-40ab-911b-1cd93753e80f)
+![Untitled diagram-2025-03-12-101132](https://github.com/user-attachments/assets/461f11f5-8211-4ead-9680-9c63be78629f)
+
 
 
 ## Getting Started
