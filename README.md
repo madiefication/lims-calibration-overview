@@ -35,6 +35,9 @@ This project consists of five interconnected repositories, each responsible for 
 - **Version Control:** Git, GitHub
 - **Package Manager:** npm/yarn
 
+## System Architechture / Diagrams
+![Untitled diagram-2025-03-12-100834](https://github.com/user-attachments/assets/06d24db8-84a6-4063-bd1f-00326bc4fd08)
+
 ## Getting Started
 1. Clone the relevant repositories.
 2. Install dependencies using `npm install`.
